@@ -1,5 +1,5 @@
 # Predicting U.S. Economic Recessions Using Sentiment Analysis of the Federal Reserve’s Beige Book
-The repository contains the codes and files I used in the final project for the course "Transforming Business with AI: The Power of the Large Language Models" at NHH Norwegian School of Economics. The coding for the project was done by Julia Lorenc and Håkon Molnes. 
+The repository contains the codes and files I used in the final project for the course "Transforming Business with AI: The Power of the Large Language Models" at NHH Norwegian School of Economics. The data scraping was done by Håkon Molnes and the rest of coding for the project by Julia Lorenc. 
 
 ## Table of Contents
 * [Project Overview](#project-overview)
